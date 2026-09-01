@@ -403,5 +403,5 @@ where peak_day = 1;
 
 This project demonstrates the practical use of SQL to build and manage a food delivery management database. It covers database creation, table relationships, CRUD operations, and analytical queries. The project reflects how platforms like Zomato handle structured data for daily operations and analysis.
 
-## Author - Tanish
+## Author - Anshul
 
