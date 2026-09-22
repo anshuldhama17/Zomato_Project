@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Zomato-style Food Delivery Management System using SQL. It focuses on designing and managing a relational database, performing CRUD operations, and executing SQL queries to analyze food ordering and delivery data. The project highlights skills in database design, data manipulation, and querying.
 
-![Zomato_project](https://github.com/tanish-6126/Zomato_Project/blob/main/Zomato-bg.png)
+![Zomato_project](https://github.com/anshuldhama17/Zomato_Project/blob/main/Zomato-bg.png)
 
 ## Objectives
 
@@ -23,7 +23,7 @@ This project demonstrates the implementation of a Zomato-style Food Delivery Man
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/tanish-6126/Zomato_Project/blob/main/EER_Zomato.png)
+![ERD](https://github.com/anshuldhama17/Zomato_Project/blob/main/EER_Zomato.png)
 
 - **Database Creation**: Created a database named `Zomato_P3`.
 ### 2.Table Creation 
