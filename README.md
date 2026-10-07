@@ -373,7 +373,7 @@ order by rider_id)a;
 ```
 
 **Task 15: Order Frequency by Day:
--- Analyze order frequency per day of the week and identify the peak day for each nestaurant.**
+-- Analyze order frequency per day of the week and identify the peak day for each restaurant.**
 
 ```sql
 
